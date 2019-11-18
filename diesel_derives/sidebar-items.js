@@ -1,0 +1,1 @@
+initSidebarItems({"derive":[["AsChangeset",""],["AsExpression",""],["Associations",""],["DieselNumericOps",""],["FromSqlRow",""],["Identifiable",""],["Insertable",""],["NonAggregate",""],["QueryId",""],["Queryable",""],["QueryableByName",""],["SqlType",""]],"macro":[["sql_function_proc",""]]});
